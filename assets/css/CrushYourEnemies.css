@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'CrushYourEnemies';
+	src: url(../../assets/fonts/CrushYourEnemies-Book.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'CrushYourEnemies';
+	src: url(../../assets/fonts/CrushYourEnemies-Book.ttf) format('truetype'),
+	url(../../assets/fonts/CrushYourEnemies-Book.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'CrushYourEnemies';
+	src: url(../../assets/fonts/CrushYourEnemies-ExtraBold.eot) format('embedded-opentype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'CrushYourEnemies';
+	src: url(../../assets/fonts/CrushYourEnemies-ExtraBold.ttf) format('truetype'),
+	url(../../assets/fonts/CrushYourEnemies-ExtraBold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
