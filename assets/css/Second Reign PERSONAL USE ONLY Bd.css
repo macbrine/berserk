@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Second Reign PERSONAL USE ONLY Bd';
+	src: url(../../assets/fonts/SecondReignPERSONALUSEONLY-Bold.eot) format('embedded-opentype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Second Reign PERSONAL USE ONLY Bd';
+	src: url(../../assets/fonts/SecondReignPERSONALUSEONLY-Bold.ttf) format('truetype'),
+	url(../../assets/fonts/SecondReignPERSONALUSEONLY-Bold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
