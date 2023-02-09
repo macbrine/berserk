@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Angars Runes PERSONAL USE ONLY';
+	src: url(../../assets/fonts/AngarsRunesPERSONALUSEONLY.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Angars Runes PERSONAL USE ONLY';
+	src: url(../../assets/fonts/AngarsRunesPERSONALUSEONLY.ttf) format('truetype'),
+	url(../../assets/fonts/AngarsRunesPERSONALUSEONLY.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

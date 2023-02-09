@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'Promenades';
+	src: url(../../assets/fonts/Promenades.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Promenades';
+	src: url(../../assets/fonts/Promenades.ttf) format('truetype'),
+	url(../../assets/fonts/Promenades.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Promenades';
+	src: url(../../assets/fonts/Promenades_1.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Promenades';
+	src: url(../../assets/fonts/Promenades_1.ttf) format('truetype'),
+	url(../../assets/fonts/Promenades_1.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
