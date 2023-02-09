@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Primus';
+	src: url(../../assets/fonts/Primus.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Primus';
+	src: url(../../assets/fonts/Primus.ttf) format('truetype'),
+	url(../../assets/fonts/Primus.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
